@@ -1,4 +1,4 @@
-# greengouse
+# GreenHouse
 
 My Campus Final Project
 
